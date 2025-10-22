@@ -23,7 +23,7 @@ The goal of these tasks is to understand how lists work in C#, how to manipulate
 
 ## 🏁 Conclusion
 
-By completing these exercises, you’ve learned:
+By completing these exercises, I’ve learned:
 
 * How to create and manipulate lists.
 * How to use loops and conditions together.
