@@ -89,3 +89,28 @@
 //{
 //    Console.WriteLine(num);
 //}
+
+
+// 3. Check if a Number Exists
+//List<int> numbers = new() { 10, 20, 30, 40, 50 };
+//Console.WriteLine("Enter a number to check:");
+//int checkNum = Convert.ToInt32(Console.ReadLine());
+
+//if (numbers.Contains(checkNum))
+//{
+//    Console.WriteLine($"{checkNum} exist in the list");
+//}
+//else
+//{
+//    Console.WriteLine($"{checkNum} does not exist in the list");
+//}
+
+
+// 4. Sort and Reverse a List
+//List<int> numbers = new() { 40, 10, 30, 50, 20 };
+//numbers.Sort();
+//numbers.Reverse();
+//foreach (var num in numbers)
+//{
+//Console.WriteLine(num);
+//}
